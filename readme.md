@@ -1,4 +1,4 @@
-# Spectrum Extension
+# Spectrum Chrome Extension
 
 ## Steps to run this extension
 - Follow the instructions to [load an unpacked extension](https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked)
